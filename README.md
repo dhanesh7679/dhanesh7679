@@ -1,8 +1,8 @@
-![logo](https://github.com/dhanesh7679/dhanesh7679/assets/73820317/78a0196c-59de-479f-b35e-ae55609ba5d3)
+<img align="right" alt="Coding" width="600" src="https://github.com/dhanesh7679/dhanesh7679/assets/73820317/bece947d-45f2-4ee4-b0ec-2ec16b34fa26">
 <h1 align="center">Hi 👋, I'm Yadav Dhanesh</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/dhanesh7679/dhanesh7679/assets/73820317/18abba33-3b7a-4f12-8b3d-bc6953ad0c63">
+<img align="right" alt="Coding" width="300" src="https://github.com/dhanesh7679/dhanesh7679/assets/73820317/18abba33-3b7a-4f12-8b3d-bc6953ad0c63">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanesh7679&label=Profile%20views&color=0e75b6&style=flat" alt="dhanesh7679" /> </p>
 
