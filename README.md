@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/dhanesh7679/dhanesh7679/assets/73820317/ee9d9e61-1d02-4360-bcd9-403c16da31a7">
+<img maxwidth="100%" align="center" src="https://github.com/dhanesh7679/dhanesh7679/assets/73820317/ee9d9e61-1d02-4360-bcd9-403c16da31a7">
 
 <h1 align="center">Hi 👋, I'm Yadav Dhanesh</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
