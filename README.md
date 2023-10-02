@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yadav Dhanesh</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
-<img align="right" alt="Coding width="400" src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanesh7679&label=Profile%20views&color=0e75b6&style=flat" alt="dhanesh7679" /> </p>
 
